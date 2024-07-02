@@ -1,0 +1,1 @@
+En este repositorio se desarrolla en codigo Python las primeras pruebas del modelo sobre el impacto de la IA en la Tasa de desempleo
